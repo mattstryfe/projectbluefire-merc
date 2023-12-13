@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+```shell
+firebase deploy
+
+firebase init hosting:github
+```
